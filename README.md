@@ -21,8 +21,8 @@ root:~> sync
 
 ## Run node js (ex. i2c.js)
 * Copy i2c.js file to target device using sdb push command.
-* i2c.js is located in modules/i2c directory.owner:/usr/tmp> node i2c.js 
-* Run i2c.js file in the target.
+* i2c.js is located in modules/i2c directory.
+* Run i2c.js file at target device.
 
 ```bash
 [Host]
